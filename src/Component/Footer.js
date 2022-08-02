@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="footer">
       <p>Made for Show Case.</p>
       <p>
-        Copyright 2022, <span>Frank</span>
+        Copyright 2022, <span>Frank Ethiopia</span>
       </p>
     </footer>
   );
