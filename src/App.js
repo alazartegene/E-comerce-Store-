@@ -7,7 +7,7 @@ import Footer from "./Component/Footer";
 
 const App = () => {
   const [Product, setProduct] = useState(products);
-  const [readmore, setReadmore] = useState(false);
+  const [readmore] = useState(false);
   const readmoreToggle = () => {
     readmore(true);
   };
